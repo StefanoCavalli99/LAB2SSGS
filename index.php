@@ -36,6 +36,6 @@ Proin dapibus risus congue, cursus libero sit amet, bibendum lectus. Morbi a hen
 <p><a href="personalize.php">Vai alla pagina di personalizzazione</a></p>
 <p>ciao coglioni</p>
 
-<strong>miao</strong>
+<strong>miao!</strong>
 </body>
 </html>
