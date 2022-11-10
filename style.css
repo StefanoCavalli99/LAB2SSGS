@@ -1,0 +1,36 @@
+html, body {
+  font-family: Arial;
+  margin: 0;
+  color: white;
+}
+
+input[type=submit] {
+  background-color: #ef233c;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 8px 0;
+  padding: 10px;
+}
+
+input[type=submit]:hover {
+  background-color: #d90429;
+}
+
+#mydiv {
+  background-color: #3d5a80;
+  border-radius: 20px;
+  border: 2px solid #8d99ae;
+  padding: 20px;
+  width: 50%;
+  min-width: 270px; 
+  margin: auto;
+  tex-align: center;
+}
+
+#myform {
+ text-align: center;
+}
+
